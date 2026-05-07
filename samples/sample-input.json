@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "web-learning-citation-term-notes",
+    "title": "Web学習・引用・用語抽出ノート"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "Web学習・引用・用語抽出ノート 正常ケース",
+      "source": "source-ok",
+      "pageUrl": "pageUrl-ok",
+      "quote": "quote-ok",
+      "terms": "terms-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "citationNote": "ready"
+    }
+  ]
+}
