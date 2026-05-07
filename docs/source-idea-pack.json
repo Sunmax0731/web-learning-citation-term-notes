@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\ChromeExtension\\created_idea_002_web-learning-citation-term-notes",
+  "zip": "D:\\AI\\ChromeExtension\\created_idea_002_web-learning-citation-term-notes\\idea_002_web-learning-citation-term-notes.zip",
+  "rank": 39,
+  "domain": "ChromeExtension",
+  "ideaNo": 2,
+  "title": "Web学習・引用・用語抽出ノート",
+  "overview": "ページ保存、引用クリップ、長文読書ノート、YouTube講座メモ、用語抽出、学習ハイライトをブラウザ上でまとめる。",
+  "problem": "Webで学んだ内容がブックマーク、動画メモ、用語メモに分散し、復習しづらい。",
+  "differentiation": "ページ、動画、用語、引用を同じ学習ノートとして保存する。"
+}

@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Web学習・引用・用語抽出ノート",
+  "version": "0.1.0",
+  "description": "ページ保存、引用クリップ、長文読書ノート、YouTube講座メモ、用語抽出、学習ハイライトをブラウザ上でまとめる。",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
