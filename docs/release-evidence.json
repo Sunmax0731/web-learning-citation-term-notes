@@ -1,0 +1,32 @@
+{
+  "product": "web-learning-citation-term-notes",
+  "repository": "Sunmax0731/web-learning-citation-term-notes",
+  "githubUrl": "https://github.com/Sunmax0731/web-learning-citation-term-notes",
+  "tag": "v0.1.0-alpha.1",
+  "releaseUrl": "https://github.com/Sunmax0731/web-learning-citation-term-notes/releases/tag/v0.1.0-alpha.1",
+  "prerelease": true,
+  "latest": false,
+  "assetCount": 3,
+  "assets": [
+    "web-learning-citation-term-notes-docs.zip",
+    "manual-test.md",
+    "strict-manual-test-addendum.md"
+  ],
+  "platformRuntimeGate": "dist/platform-runtime-gate-result.json",
+  "platformType": "chrome-extension",
+  "manualTest": "not-run-by-codex",
+  "qcdsEvaluation": {
+    "Quality": "S-",
+    "Cost": "S-",
+    "Delivery": "S-",
+    "Satisfaction": "S-",
+    "capReason": "manual-test-not-run-by-codex"
+  },
+  "github": {
+    "repo": "Sunmax0731/web-learning-citation-term-notes",
+    "url": "https://github.com/Sunmax0731/web-learning-citation-term-notes",
+    "releaseUrl": "https://github.com/Sunmax0731/web-learning-citation-term-notes/releases/tag/v0.1.0-alpha.1",
+    "prerelease": true,
+    "latest": false
+  }
+}
