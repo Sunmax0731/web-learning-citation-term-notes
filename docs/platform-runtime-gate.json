@@ -1,0 +1,11 @@
+{
+  "product": "web-learning-citation-term-notes",
+  "title": "Web学習・引用・用語抽出ノート",
+  "domain": "ChromeExtension",
+  "ideaNo": 2,
+  "platformType": "chrome-extension",
+  "expectedPublicTarget": "Chrome Web Store",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
